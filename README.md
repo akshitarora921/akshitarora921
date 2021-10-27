@@ -34,7 +34,17 @@ I am a self-taught developer who always has a hunger to learn new things. I love
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
+<br/>
 
+## Connect with me:
+
+<p align="left">
+
+<a href = "https://www.linkedin.com/in/akshit-arora/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.instagram.com/_arorakshit/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
+<!-- 
 <br/>
 
 <p align="center">
@@ -55,15 +65,5 @@ I am a self-taught developer who always has a hunger to learn new things. I love
 <br/>
 
 <a href="https://github.com/akshitarora921/github-readme-activity-graph"><img alt="Akshit Arora's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=akshitarora921&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+ -->
 
-<br/>
-<br/>
-
-## Connect with me:
-
-<p align="left">
-
-<a href = "https://www.linkedin.com/in/akshit-arora/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/_arorakshit/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
